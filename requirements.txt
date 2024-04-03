@@ -1,0 +1,8 @@
+openai
+fastapi
+uvicorn
+streamlit
+pandas
+polars
+pandasai
+pyyaml
